@@ -10,7 +10,7 @@
 [![GitHub vmatheusousa](https://img.shields.io/github/followers/vmatheusousa?label=follow&style=social)](https://github.com/vmatheusousa)
 
 
-### <img src="https://media.giphy.com/media/0EV5qVP04vGrGoCDjn/giphy.gif" width="50"  > A little more about me...  
+### A little more about me... <img src="https://media.giphy.com/media/0EV5qVP04vGrGoCDjn/giphy.gif" width="50"> 
 
 ```javascript
 const vmatheusousa = {
