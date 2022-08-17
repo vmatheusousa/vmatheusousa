@@ -8,6 +8,8 @@
 [![Twitter: _vmatheusousa](https://img.shields.io/twitter/follow/_vmatheusousa?style=social)](https://twitter.com/_vmatheusousa)
 [![Linkedin: vmatheusousa](https://img.shields.io/badge/-vmatheusousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vmatheusousa/)](www.linkedin.com/in/vmatheusousa/)
 [![GitHub vmatheusousa](https://img.shields.io/github/followers/vmatheusousa?label=follow&style=social)](https://github.com/vmatheusousa)
+  <h4>Visitas no meu perfil</h4>
+  <img src="https://komarev.com/ghpvc/?username=vmatheusousa&color=red" alt="vmatheusousa" />
 
 
 ### A little more about me... <img src="https://media.giphy.com/media/0EV5qVP04vGrGoCDjn/giphy.gif" width="50"> 
